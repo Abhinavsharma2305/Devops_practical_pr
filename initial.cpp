@@ -1,5 +1,5 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"This is the initial commit before pr generate";
+    cout<<"Now this is the change to the new branch";
 }
